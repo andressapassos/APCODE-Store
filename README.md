@@ -16,5 +16,3 @@ HTML · CSS · AOS Animation · Spline 3D
 ## 🧠 Concept
 The **ACODE Store** is designed to showcase how web developers can blend creative design and interactivity through Spline’s 3D integration, without relying on complex JavaScript frameworks.
 
-## 🚀
-   git clone https://github.com/andressapassos/APCODE-Store.git
